@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/Ldev007/Ldev007/master/banner.gif" alt="Lomash Dubey"></a>
 </p>
 
-Hey guys ! I am Lomash Dubey (aka KD/Ldev), a software engineer by profession and an explorer for life.  I am also a content creator and I create variety of content ! In my spare time I like to sing and play ukulele. You can check my socials and technologies I have worked with below:
+I am also a content creator and I create variety of content ! In my spare time I like to sing, play ukulele and create tech videos. You can check my socials and technologies I have worked with below:
 
 <!-- Social icons section -->
 
